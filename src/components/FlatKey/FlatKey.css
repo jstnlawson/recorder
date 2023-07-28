@@ -1,0 +1,9 @@
+.flatkey{
+    position: relative;
+    background-color: black;
+    /* margin-left: 10px;
+    margin-right: 10px; */
+    height: 200px;
+    width: 20px;
+    z-index: 2;
+}
